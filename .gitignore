@@ -1,0 +1,15 @@
+# WorkBuddy / CodeBuddy internal data
+.workbuddy/
+.codebuddy/
+
+# Windows artifacts
+nul
+Thumbs.db
+desktop.ini
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
